@@ -5,7 +5,7 @@ Deploy ARM-based Oracle Cloud Kubernetes Cluster with Terraform
 ## Guide
 
 1. Install [oci-cli](https://github.com/oracle/oci-cli)
-2. Run `once setup config,` and find acid on the Oracle cloud console.
+2. Run `oci setup config,` and find acid on the Oracle cloud console.
 3. Create `terraform.tfvars` with the below config:
 
 ```env
