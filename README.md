@@ -28,4 +28,4 @@ fingerprint = "33:bc:49.."
 private_key_path = ""
 ```
 
-4. `terraform init`, `terraform plan` and `terraform apply` then boom, I have a low-cost K8s cluster now.
+4. `terraform init`, `terraform plan` and `terraform apply` then boom, you have a low-cost K8s cluster now.
